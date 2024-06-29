@@ -175,6 +175,7 @@ border-radius: 8px;
   background: #4e75ff;
   color: #fff;
   border: none;
+  font-family: "Montserrat", sans-serif;
 }
 
 .form button:hover{
